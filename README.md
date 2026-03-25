@@ -9,10 +9,6 @@ Customer Analysis
 
 <img width="1382" height="771" alt="image" src="https://github.com/user-attachments/assets/4431eae6-798a-40a3-a5ea-df6958ae8244" />
 
-Data Model
-
-<img width="985" height="765" alt="image" src="https://github.com/user-attachments/assets/b7322365-91ff-4c32-8331-d7de68070148" />
-
 ## Overview
 This project is a Power BI dashboard built to analyze financial performance across customers, time periods, and therapeutic areas. The report compares actual and forecast values, highlights revenue and margin trends, and supports interactive top/bottom customer analysis.
 
@@ -66,6 +62,10 @@ The model follows a star-schema style structure.
 - **Version**
   - Version
   - Year
+  
+Data Model
+
+<img width="985" height="765" alt="image" src="https://github.com/user-attachments/assets/b7322365-91ff-4c32-8331-d7de68070148" />
 
 ## Key Metrics
 The dashboard uses measures such as:
