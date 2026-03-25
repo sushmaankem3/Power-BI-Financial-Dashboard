@@ -1,10 +1,6 @@
 # Financial Performance Analysis Dashboard
 
 Screenshots
-Data Model
-
-<img width="985" height="765" alt="image" src="https://github.com/user-attachments/assets/b7322365-91ff-4c32-8331-d7de68070148" />
-
 Executive Overview
 
 <img width="1371" height="772" alt="image" src="https://github.com/user-attachments/assets/5827ef90-36cd-4120-96e9-599fca7917b1" />
@@ -12,6 +8,10 @@ Executive Overview
 Customer Analysis
 
 <img width="1382" height="771" alt="image" src="https://github.com/user-attachments/assets/4431eae6-798a-40a3-a5ea-df6958ae8244" />
+
+Data Model
+
+<img width="985" height="765" alt="image" src="https://github.com/user-attachments/assets/b7322365-91ff-4c32-8331-d7de68070148" />
 
 ## Overview
 This project is a Power BI dashboard built to analyze financial performance across customers, time periods, and therapeutic areas. The report compares actual and forecast values, highlights revenue and margin trends, and supports interactive top/bottom customer analysis.
